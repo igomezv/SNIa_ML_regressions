@@ -7,4 +7,4 @@ En la notebook tunning, hay que usar los mismos datos de la otra notebook para h
 
 En la carpeta "references" hay artículos de los datos y de trabajos similares, incluido el artículo de la nueva compilacion de supernovas. 
 
-En https://pbrown801.github.io/SOUSA/ parece que se encuentra la nueva compilación.
+La página https://pantheonplussh0es.github.io/ es la correspondiente a la colaboración que liberará Pantheon+, ahí mismo explican que hasta que no publiquen los artículos, no se liberarán los datos. Otro enlace donde pudieran alojar los datos en el futuro cercano es https://pbrown801.github.io/SOUSA/ .
