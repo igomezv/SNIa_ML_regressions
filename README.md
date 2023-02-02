@@ -1,6 +1,6 @@
 # SNIa_neural_forecasting
 
-Es muy posible que en este año 2022, se libere una nueva compilación de supernovas del tipo Ia (SNeIa), denominada Pantheon+. Las compilaciones que le preceden son la compilación JLA (2014) y Pantheon (2018). 
+Usando compilación JLA (2014) y Pantheon (2018). Pendiente Pantheon+(2023).
 
 En este trabajo, se pretende probar si una red neuronal entrenada con una compilación de SNeIa es capaz de predecir el valor de mediciones futuras a corrimientos al rojo dentro del mismo rango presente. Como una primera prueba, hemos generado modelos de redes neuronales a partir de la compilación JLA para predecir las mediciones de Pantheon. 
 
