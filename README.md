@@ -1,10 +1,8 @@
-# SNIa_neural_forecasting
+# SNIa reconstructions
 
-Usando compilación JLA (2014) y Pantheon (2018). Pendiente Pantheon+(2023).
+Usando redes neuronales y process gaussianos con las compilaciones JLA (2014), Pantheon (2018) y Pantheon+(2023).
 
 En este trabajo, se pretende probar si una red neuronal entrenada con una compilación de SNeIa es capaz de predecir el valor de mediciones futuras a corrimientos al rojo dentro del mismo rango presente. Como una primera prueba, hemos generado modelos de redes neuronales a partir de la compilación JLA para predecir las mediciones de Pantheon. 
-
-Un trabajo futuro sería, entrenar con Pantheon para predecir Pantheon+. La comprobación de los resultados de ésto último se podría realizar hasta que los nuevos datos sean liberados. 
 
 ---------------------------
 
